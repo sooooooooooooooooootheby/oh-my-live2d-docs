@@ -122,4 +122,4 @@ OhMyLive2d:
     #   }
 ```
 
-如需自定义配置, 请在[配置选项](../api/interfaces/Options.md) 中查阅详细配置内容.
+如需自定义配置, 请在[配置选项](../api/Options.md) 中查阅详细配置内容.

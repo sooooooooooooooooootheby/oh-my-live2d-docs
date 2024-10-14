@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
 	title: "ohMyLive2dDocs",
 	description: "oh my live2d的官方文档备份",
-	ignoreDeadLinks: true,
+	// ignoreDeadLinks: true,
 	head: [["link", { rel: "icon", href: "public/favicon.ico" }]],
 	themeConfig: {
 		logo: "/favicon.ico",
@@ -34,6 +34,7 @@ export default defineConfig({
 					text: "指南",
 					items: [
 						{ text: "快速开始", link: "article/guide/quickStart.md" },
+						{ text: "组件加载", link: "article/guide/loadOml2d.md" },
 						{ text: "模型加载", link: "article/guide/moduleLoad.md" },
 						{ text: "自定义图标", link: "article/guide/customIcon.md" },
 					],

@@ -62,7 +62,7 @@ false;
 
 > `optional` **loadingIcon**: `string`
 
-自定义模型加载时的 icon, 详见: [自定义图标](/guide/icon)
+自定义模型加载时的 icon, 详见: [自定义图标](../guide/customIcon)
 
 #### 默认值:
 

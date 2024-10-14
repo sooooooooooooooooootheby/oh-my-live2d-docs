@@ -66,18 +66,18 @@ yarn add oh-my-live2d@latest
 
 ### 使用
 
-使用方式请查阅: [组件加载](../api/functions/loadOml2d.md)
+使用方式请查阅: [组件加载](./loadOml2d.md)
 
 ### 其他支持
 
--   [在 VitePress 中使用](./vitepress.md)
+-   [在 VitePress 中使用](../demo/vitepress.md)
 
--   [在 VuePress2 中使用](./vuepress.md)
+-   [在 VuePress2 中使用](../demo/vuepress.md)
 
--   [通过 VitePlugin 方式使用](./vite.md)
+-   [通过 VitePlugin 方式使用](../demo/viteplugin.md)
 
--   [在 Hexo 中使用](./hexo.md)
+-   [在 Hexo 中使用](../demo/hexo.md)
 
 ### 模型资源
 
-前往[模型资源](./models.md)选择您喜欢的模型
+前往[模型资源](./moduleLoad.md)选择您喜欢的模型

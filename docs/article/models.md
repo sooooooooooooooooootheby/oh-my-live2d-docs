@@ -80,7 +80,7 @@ loadOml2d({
 
 ### shizuku_pajama
 
-- 效果图:  
+- 效果图:
   ![](https://loclink-1259720482.cos.ap-beijing.myqcloud.com/image/%E5%BD%95%E5%B1%8F2024-03-21%2023.10.55.gif)
 - 配置:
 

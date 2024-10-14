@@ -84,9 +84,9 @@ sdk已内置,该选项已弃用,将在下个版本被移除
 
 ### menus?
 
-> `optional` **menus**: [`MenusOptions`](MenusOptions.md) \| (`currentModel`: [`ModelOptions`](ModelOptions.md), `modelIndex`: `number`) => [`MenusOptions`](MenusOptions.md)
+> `optional` **menus**: [`MenusOptions`](menusOptions.md) \| (`currentModel`: [`ModelOptions`](modelOptions.md), `modelIndex`: `number`) => [`MenusOptions`](menusOptions.md)
 
-菜单配置, 详见: [菜单选项](./MenusOptions)
+菜单配置, 详见: [菜单选项](./menusOptions)
 
 ---
 
@@ -106,11 +106,11 @@ false;
 
 ### models?
 
-> `optional` **models**: [`ModelOptions`](ModelOptions.md)[]
+> `optional` **models**: [`ModelOptions`](modelOptions.md)[]
 
 模型选项, 类型是模型配置对象组成的数组, 默认值是空数组
 
-详见: [模型选项](./ModelOptions)
+详见: [模型选项](modelOptions)
 
 #### 默认值:
 
@@ -172,17 +172,17 @@ true;
 
 ### statusBar?
 
-> `optional` **statusBar**: [`StatusBarOptions`](StatusBarOptions.md)
+> `optional` **statusBar**: [`StatusBarOptions`](statusBarOptions.md)
 
-状态条选项, 详见: [状态条选项](./StatusBarOptions)
+状态条选项, 详见: [状态条选项](statusBarOptions)
 
 ---
 
 ### tips?
 
-> `optional` **tips**: [`TipsOptions`](TipsOptions.md) \| (`currentModel`: [`ModelOptions`](ModelOptions.md), `modelIndex`: `number`) => [`TipsOptions`](TipsOptions.md)
+> `optional` **tips**: [`TipsOptions`](tipsOptions.md) \| (`currentModel`: [`ModelOptions`](modelOptions.md), `modelIndex`: `number`) => [`TipsOptions`](tipsOptions.md)
 
-自定义提示框样式和内容, 前往[提示框选项](./TipsOptions)查看详细内容
+自定义提示框样式和内容, 前往[提示框选项](tipsOptions)查看详细内容
 
 ---
 
