@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
 	title: "ohMyLive2dDocs",
 	description: "oh my live2d的官方文档备份",
-	// ignoreDeadLinks: true,
+	ignoreDeadLinks: true,
 	head: [["link", { rel: "icon", href: "public/favicon.ico" }]],
 	themeConfig: {
 		logo: "/favicon.ico",
